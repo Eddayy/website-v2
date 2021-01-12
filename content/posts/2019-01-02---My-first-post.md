@@ -4,7 +4,7 @@ title: I just started this website
 slug: My-first-post
 socialImage: /media/My-first-post.jpeg
 draft: false
-date: 2019-01-31T23:46:00.000Z
+date: 2019-01-01T23:46:00.000Z
 description: >-
   Hey! Welcome to the front page of me.
 
