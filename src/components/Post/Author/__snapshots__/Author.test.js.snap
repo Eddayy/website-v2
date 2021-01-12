@@ -10,7 +10,7 @@ exports[`Author renders correctly 1`] = `
     Test bio
     <a
       className="author__bio-linkedin"
-      href="https://www.linkedin.com/in/eddyble/"
+      href="https://www.linkedin.com/in/eddyble"
       rel="noopener noreferrer"
       target="_blank"
     >
