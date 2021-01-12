@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Edmund Tay',
     photo: '/photo.jpeg',
-    bio: 'Personal blog by Edmund Tay. Full Stack web and mobile flutter developer.',
+    bio: 'Edmund Tay. Full Stack web dev and mobile flutter developer.',
     contacts: {
       email: 'edmundtay96@gmail.com',
       facebook: '',
